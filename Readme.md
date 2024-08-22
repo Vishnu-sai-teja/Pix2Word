@@ -1,4 +1,5 @@
-## Pix2Word 
+## Pix2Word  
+ - I am still working on the project so it may take some time to complete the whole project ! 
 
  - In this project I would implement a **Vision Language Model** .
 
